@@ -1,6 +1,11 @@
-# reverse_string_app
+# Reverse String
 
 A new Flutter project.
+
+<img src="/Snapshot/Capture+_2020-12-24-16-58-05.png">
+<br>
+<img src="/Snapshot/Capture+_2020-12-24-16-58-16.png">
+<br>
 
 ## Getting Started
 
